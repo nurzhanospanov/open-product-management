@@ -142,6 +142,9 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  * [How to build a roadmap everyone understands](https://medium.com/@dreasaez/how-to-build-a-product-roadmap-everyone-understands-522b36270e5#.e8gcmylg0) - Andrea Saez
  * [Making a Product Map](https://medium.com/@mstephan/making-a-product-map-4fbf6d440a19#.bpmtqfotk) - Mark Stephan
  * [Lean UX Canvas](https://medium.com/@mstephan/lean-ux-canvas-5f1fdd378077#.rdbait1y4) - Mark Stephan
+ * [Agile Product Ownership in a nutshell](
+http://blog.crisp.se/2012/10/25/henrikkniberg/agile-product-ownership-in-a-nutshell) - Henrik Kniberg
+
 
  ### How to work with Engineers
  * [The care and feeding of software engineers](http://www.nczonline.net/blog/2012/06/12/the-care-and-feeding-of-software-engineers-or-why-engineers-are-grumpy/) - Nicholas C. Zakas
